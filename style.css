@@ -1,0 +1,47 @@
+body{
+  height:100vh;
+  background:linear-gradient(to bottom, #003, #A0A);
+}
+#login{
+  color:#fff;
+  font-family: cursive;
+  font-size:60px;
+  margin-left:30px;
+  
+}
+#log{
+  width:90%;
+  height:70%;
+  border-right:solid 1px;
+  border-radius: 20%;
+  border-bottom:solid 1px;
+  border-color:grey;
+  backdrop-filter:blur(70px);
+  margin-top:100px;
+  margin-left:20px;
+}
+input{
+  width:90%;
+  height:25px;
+  margin-top:20px;
+  background: transparent ;
+  border-color: transparent ;
+  border-bottom:solid 1px;
+  color:white;
+}
+#bc{
+  margin-top:50px;
+  margin-left:180px;
+  border-radius:20px;
+  height:35px;
+  width:120px;
+}
+.ip{
+  color:#fff;
+  margin-left:50px;
+  margin-top:50px;
+}
+#il{
+  color:blue;
+
+}
